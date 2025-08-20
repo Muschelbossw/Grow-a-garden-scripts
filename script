@@ -1,1 +1,224 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _IatEBTQjqXem = a; end)); return(function(f,...)local d;local b;local o;local e;local r;local a;local n=24915;local l=0;local t={};while l<972 do l=l+1;while l<0x34b and n%0x2ed6<0x176b do l=l+1 n=(n*1018)%43279 local c=l+n if(n%0x22e8)>0x1174 then n=(n+0x1cc)%0x9398 while l<0x103 and n%0x4aa2<0x2551 do l=l+1 n=(n+529)%16289 local e=l+n if(n%0x475e)<=0x23af then n=(n-0x20e)%0x8625 local e=41223 if not t[e]then t[e]=0x1 a=(not a)and _ENV or a;end elseif n%2~=0 then n=(n*0xa3)%0x11e7 local e=28819 if not t[e]then t[e]=0x1 end else n=(n*0x21b)%0x6cd6 l=l+1 local e=1244 if not t[e]then t[e]=0x1 a=getfenv and getfenv();end end end elseif n%2~=0 then n=(n+0x46)%0x28b8 while l<0x34f and n%0x36f2<0x1b79 do l=l+1 n=(n+865)%31825 local c=l+n if(n%0x1418)>0xa0c then n=(n*0x316)%0x4e9c local e=93038 if not t[e]then t[e]=0x1 b=tonumber;end elseif n%2~=0 then n=(n*0x10a)%0x6993 local n=85583 if not t[n]then t[n]=0x1 d=function(t)local n=0x01 local function l(e)n=n+e return t:sub(n-e,n-0x01)end while true do local t=l(0x01)if(t=="\5")then break end local n=r.byte(l(0x01))local n=l(n)if t=="\2"then n=e.pLetpoSC(n)elseif t=="\3"then n=n~="\0"elseif t=="\6"then a[n]=function(e,n)return f(8,nil,f,n,e)end elseif t=="\4"then n=a[n]elseif t=="\0"then n=a[n][l(r.byte(l(0x01)))];end local l=l(0x08)e[l]=n end end end else n=(n+0x305)%0xca8 l=l+1 local e=4616 if not t[e]then t[e]=0x1 o="\4\8\116\111\110\117\109\98\101\114\112\76\101\116\112\111\83\67\0\6\115\116\114\105\110\103\4\99\104\97\114\84\116\68\74\99\100\99\71\0\6\115\116\114\105\110\103\3\115\117\98\68\108\86\111\70\97\76\105\0\6\115\116\114\105\110\103\4\98\121\116\101\109\104\121\73\79\88\82\121\0\5\116\97\98\108\101\6\99\111\110\99\97\116\109\86\76\82\89\107\101\107\0\5\116\97\98\108\101\6\105\110\115\101\114\116\84\87\68\107\110\99\99\106\5";end end end else n=(n+0x399)%0x283e l=l+1 while l<0x14b and n%0x2a7c<0x153e do l=l+1 n=(n+495)%7186 local a=l+n if(n%0x242c)<0x1216 then n=(n+0x135)%0x1733 local n=81041 if not t[n]then t[n]=0x1 e={};end elseif n%2~=0 then n=(n-0x1c6)%0x34ce local e=84683 if not t[e]then t[e]=0x1 end else n=(n-0xbf)%0x974c l=l+1 local e=57376 if not t[e]then t[e]=0x1 r=string;end end end end end n=(n+131)%11979 end d(o);local l={};for n=0x0,0xff do local e=e.TtDJcdcG(n);l[n]=e;l[e]=n;end local function c(e)return l[e];end local r=(function(r,d)local o,t=0x01,0x10 local l={{},{},{}}local a=-0x01 local n=0x01 local f=r while true do l[0x03][e.DlVoFaLi(d,n,(function()n=o+n return n-0x01 end)())]=(function()a=a+0x01 return a end)()if a==(0x0f)then a=""t=0x000 break end end local a=#d while n<a+0x01 do l[0x02][t]=e.DlVoFaLi(d,n,(function()n=o+n return n-0x01 end)())t=t+0x01 if t%0x02==0x00 then t=0x00 e.TWDknccj(l[0x01],(c((((l[0x03][l[0x02][0x00]]or 0x00)*0x10)+(l[0x03][l[0x02][0x01]]or 0x00)+f)%0x100)));f=r+f;end end return e.mVLRYkek(l[0x01])end);d(r(207,"hsfT8PaYQFcey(j5TTaay85afePjcc58faTyQjFYj!sjjsssYs(TsQ8sPQFy(F(5s55yfyQ(5PskTYa8yYjP5PTasY8Fcc(jssPTc8jajcTfYFcacQF8yafPPcQ55skjPsPeFa5fsYTPss8Pc8(8=TTYae((+Tf5ajQFcaj8N55VfTQseYjYsTa%ea(Psq8aYycaeVFj(2TaasFPjF:QPeFay8j(fafyse8(esjTsTYFcPjajffeaPFc(eFQyyfFafFdy;588yFPey(TfT88PccPYYcFKQTyayejbFsPaPYT(Q55sa58faQ(e(jeTjPeef(!sePTaTQFYscPD8TPaeFeyaTcTyFfcej5TsPcY8PUQfjYsT8acf(es(TQYcF5ysjTy(55a.F8yss8T8YYya5ysY8jY(8cYc((f8aPFaej58s58jcaaPFP5YaeQjcsjcfYaTayeeQme;s8QTQa(QNe8cPuFQeyFeyeTWQ,cyjaf#TfQjya5yeaja8yeFy(sFP8Y(QTe0sQ(s#TaTFYyFXFTFYXcjjFLaPFaY8jY5jLI5P5cyyP5ffy8ce#eTFcyef(P(cQ(f<YPsaycfyPiejasYYQcQsy8PaycYc558fQPPTfaTyP58PYQYc5j(TqTFYTFYYjess!T5Y8cQ5TTQYPY((e55TL8TfyP5e(j(fJPfcTj5s5feY5cc(cfs(c2ea5F(5u8f88Y8cF4LssasfaPYeYj(PeQ5cf585s8aYFQeYfcT;TTeFTe5jjTFaQFPcYjsejj5P+QY(Y PPaP8QyyP5TTFAcTecT(sM5PjYQy95csFPPFPPaQYjcs(QTFcjYfsPpQ8cy(5cf(TTaa8cy(ys(TjQ(cP(5fsjjsjQPjTsYfTaaFfeYse850FTcF(ycT(aaFycT5jVcTjaaPPQajFsQPcFTyyOyPfY(QayYcs(sTFFj((5cs(afQjyP5(eyj(8(Y5jY5jfyPQQF(fsefc^QTFFFy(fsaaF(yYC4TIa8QFP8QPjPsPYeF5jY5cTsY5QFjYc/(sTsa8eQ%C*cPea(F55Qf8jysyQP(5fT8sY(c(jYDaTa2YTQcZyyfjacYf(f5cHTPFFQPTQ8jYs(Q-Fcj7AffQP8Q8cjF5(wTPaP(eZ_f8T5aYe,(YfYjesyYyc(sQPfQfFQ(cIe8PYQTYaQy(5jPyc8cs5YbcPTQycsQTe8se8ecF((=XfY8eQae55jy5^EaTFToasaa>QcF(5Osy8sse8yeT(5PPY(eP(PslTc8eQsac"));d(r(122,"MBUTy&n(_Ptwx)O{_nBUa&_xBQ_)B_P(wtt-T(w&TOPPBxtUT(xOnyw)(y__ {eg(P{)_OByPtBOPUBPPUB_x8T)&{OP)tnU){nt{n&t{x_B))_yX(tB{xT_xyw(TOxUT{xtyPn)&w)&nOOTnOOO_T.w(BOO_PVB_PwxynT&t{y_xUO&)U&})((rOOnT)n(_{t_T{xP&BST_xnwTUwx2T{w)&Ux&&O)B&_O_n({tn&O&nTO{_{ByP&wxy&Btt{TTxtyw)yBwwBT&{y&_)P_B)_&{tUU_UBPBB{w}Wnw#yTxByw)>TBtO{y(PT({)({O&_PO((n{T_Tw_yUTyw&T{xnytx(&U)BTwxU&y{t&U{(nx &UItwtIBTPtUttP)cx&yyxxyTxw&POOTwx)&w4r&OOy_)t_T8U&tyUxtTUwwPTnx{yUO<nUOTnOx(1__{_s3__&BJPx-{Ptq&PBBxP_B)ttOUnt&))&nUOBn&{x({{_ntGt(OB)tBBBTOx_w(TBxtyyn(yO)tnTOP(UOt&{OU_UBBn)B3PBww"));local n=(-e.SlmRsKcp+(function()local a,l=e.aumSfrGV,e.hRHDvcBR;(function(e,n)e(n(e,e and n),e(e and n,n and e))end)(function(n,t)if a>e.IizMdzvG then return n end a=a+e.hRHDvcBR l=(l+e.jVhAKvjW)%e.wlgu_KXR if(l%e.Lq_inslE)<e.XFhrogoD then l=(l-e.kfvAYbfv)%e._wmSrbGa return t(n(t,t and n),n(t,n))else return t end return n end,function(t,n)if a>e.TnIhEyoU then return t end a=a+e.hRHDvcBR l=(l+e.WCiVpwVK)%e.tEjRevnW if(l%e._gxbsgXI)<=e.TCUsxbhf then return t else return n(t(n,n),n(n,n and n))end return n(t(n,t),t(t,n and n))end)return l;end)())local h=e.bubzvqvI or e.zAMUtLLo;local te=(getfenv)or(function()return _ENV end);local d=e.IYYPUOMt;local a=e.ugIamxPn;local c=e.rDeguJaT;local _=e.hRHDvcBR;local function le(y,...)local o=r(n,"ksQx-&^IV+6LbR7#7sLV+-I*-R-sn-7ALb7&7xL#+6&L-+Qx#LbLbV6QI&&^QLsxb-bs+VI-&sx^7&#-Rg66s&sIbb6VV-L-6-Vs^I#EsQ#sRa6&xb^#x&Qx6bRVL^V#I5xRsI:-Rs6b--II-&Qb#b+Z+++IIx-7:##RRIIMVQxL7&b&+bIV&-6xIb-+xLJ7IR^&x-s;7bQI7R7sR%IR&^--sRsQ#&LV6sV&#&R-6bVV^-L-IR^Lx#bQVb^V--Q1ssRVL-+W^R-VQ-o=77b&+-IN-bQ+e-78Lb66Vb&nQbjV7Vb4+bIVI6-6Db7Vb-6^Ib&+x-sQ7bbbbQVl&bxVs6#9bR6VVVI7xbsV#-RI6bV+^--jxb#VR-L_VR^V--Qc#77sL-+0^b-+Q-{2RbL6+RIz-RQVB-7ULb+VV^^^Qbp67-b&+bIV&-&(sL7Vb^6.I7&VxIsv7b7&6-Vx&bxVs-#abb6V+&^ox7sV#^Ra6RVVI^-Lsb#6R-L&Vb^V---(J6RVL^+l^7-VQIa.RbbL+-Ix-bQ+4-7?Lb+VII&{Q7FV7^be+RIV&-&r2b7Vb-6sIb&Vx-sT77bV6-Vq^sxVs-#GbR6bV-^BxbI#&&xRssV+I+-tsb#VxVs+##bLLx+Q^p(^sL#I+L6L+IIV&s76iQLxLI+#xR7sbx+VI-&lI-Ib&Vx,7xRRbVxss^7Vb-6=7VbI+&I-&#xbs^7+b6+#s&-Qbb6VV-bVLOVb^--x7^LI+xLQIR^#SQsI#&Rb6b+&&7-RQI#&R76L+x^7&5sRPQ7-I6VLIx-R7Lt7R+bQ6&Is&sxm>L76bV+sI6&bx^sQ6LRg^xVQ&sQ7sI6#b-+RI&&-x#RI#sbs6&V^QxxI/R7#bxL^V&^L-+ss#V+^L*+&&R7QL-+3^b&6QLTPRbLV+VIa-bQVs^7LLb++I-&sQb<V7-7r6LIV&&xu R7VbI6UV7Imx-sx7bbR6-V_&bxVs&#}Rf6VV&^oxbsV#-7s6bV+^---sb#VR-LcVR^V--QC#bRVL^+qI7^QQ-?sRbL6+-Iw-bQVKI70Lb+VI^&8QR*V7-7M+bIV&-xs?b7Vb-6MIb&Vx-s_#QbV6-VJ&R-Qs-#Gbbs-#xbs6TVL^V-Qs&#^bL-sQx#VR-LCR-RbLV+=-xxRQV+sIz-VQ-tn-xs+XsR&-R-b4-7aLb#666Vx^s-ss&#&RQ6&LI+sxRs+#sR-LxL+^^xR-R#7l^L5V+^7-^QQQ77sL&+^6Q-RQVD&oRV+Vb-%sb#VxbQ-K8RVLI&6QLAIsI#-R6I^+^^&&QsRh^7xLs&^II-#QQ_b7LLs+7^RsxQbeLR+LV+&I7s^xOs&RRbRx&sQ7bbV6-b+6g-Qs-#ebbL6V-^rxbsV#VRp6bVVI^-bsb#VR-L^Vb^V--xQ*bRVL-+:^R-VQ-D/77RD+-Is-bQLy-7fLbLVV+&XQRnV7&b1+7IV^^xx_b7Lb-6&Ib&Vx-s>#-bV6&VP&#xVs-#ebbb)V-^NxbsV#-RQ6bVV^V-Dsb#VR&L%VR^V---U#bRVL-+s^b-VQ-4.RbLV+-I!");local l=e.aumSfrGV;e.ljXYLLne(function()e.DhumqpKB()l=l+e.hRHDvcBR end)local function n(e,n)if n then return l end;l=e+l;end local t,l,s=f(e.aumSfrGV,f,n,o,e.mhyIOXRy);local function r()local t,l=e.mhyIOXRy(o,n(e.hRHDvcBR,e.IYYPUOMt),n(e.TOXaBmty,e.rUpzrGCz)+e.ugIamxPn);n(e.ugIamxPn);return(l*e.EDJWaMoL)+t;end;local u=true;local u=e.aumSfrGV local function j()local a=l();local n=l();local d=e.hRHDvcBR;local a=(t(n,e.hRHDvcBR,e.OkSOXEzL)*(e.ugIamxPn^e.LEIbLQCX))+a;local l=t(n,e.tlblCWZV,e.cbYfxPYL);local n=((-e.hRHDvcBR)^t(n,e.LEIbLQCX));if(l==e.aumSfrGV)then if(a==u)then return n*e.aumSfrGV;else l=e.hRHDvcBR;d=e.aumSfrGV;end;elseif(l==e.QeqHuhhJ)then return(a==e.aumSfrGV)and(n*(e.hRHDvcBR/e.aumSfrGV))or(n*(e.aumSfrGV/e.aumSfrGV));end;return e._LhdgZmb(n,l-e.SnmHkedz)*(d+(a/(e.ugIamxPn^e.TuFEIoOn)));end;local k=l;local function m(l)local t;if(not l)then l=k();if(l==e.aumSfrGV)then return'';end;end;t=e.DlVoFaLi(o,n(e.hRHDvcBR,e.IYYPUOMt),n(e.TOXaBmty,e.rUpzrGCz)+l-e.hRHDvcBR);n(l)local n=""for l=(e.hRHDvcBR+u),#t do n=n..e.DlVoFaLi(t,l,l)end return n;end;local k=#e.KLXxJiXk(b('\49.\48'))~=e.hRHDvcBR local n=l;local function ee(...)return{...},e.qdPjXqoY('#',...)end local function le()local n={};local u={};local b={};local h={u,b,nil,n};local n=l()local o={}for a=e.hRHDvcBR,n do local t=s();local l;if(t==e.ugIamxPn)then l=(s()~=#{});elseif(t==e.IYYPUOMt)then local n=j();if k and e.bqsSJ_QS(e.KLXxJiXk(n),'.(\48+)$')then n=e.dSPjsIfa(n);end l=n;elseif(t==e.hRHDvcBR)then l=m();end;o[a]=l;end;for h=e.hRHDvcBR,l()do local n=s();if(t(n,e.hRHDvcBR,e.hRHDvcBR)==e.aumSfrGV)then local f=t(n,e.ugIamxPn,e.IYYPUOMt);local s=t(n,e.rDeguJaT,e.rUpzrGCz);local n={r(),r(),nil,nil};if(f==e.aumSfrGV)then n[d]=r();n[c]=r();elseif(f==#{e.hRHDvcBR})then n[d]=l();elseif(f==y[e.ugIamxPn])then n[d]=l()-(e.ugIamxPn^e.svXyEikL)elseif(f==y[e.IYYPUOMt])then n[d]=l()-(e.ugIamxPn^e.svXyEikL)n[c]=r();end;if(t(s,e.hRHDvcBR,e.hRHDvcBR)==e.hRHDvcBR)then n[a]=o[n[a]]end if(t(s,e.ugIamxPn,e.ugIamxPn)==e.hRHDvcBR)then n[d]=o[n[d]]end if(t(s,e.IYYPUOMt,e.IYYPUOMt)==e.hRHDvcBR)then n[c]=o[n[c]]end u[h]=n;end end;h[e.IYYPUOMt]=s();for n=e.hRHDvcBR,l()do b[n-(#{e.hRHDvcBR})]=le();end;return h;end;local function ne(t,n,l)local a=n;local a=l;return b(e.bqsSJ_QS(e.bqsSJ_QS(({e.ljXYLLne(t)})[e.ugIamxPn],n),l))end local function p(m,n,s)local function ne(...)local r,z,y,ne,u,t,o,k,b,j,g,l;local n=e.aumSfrGV;while-e.hRHDvcBR<n do if e.ugIamxPn>=n then if e.aumSfrGV>=n then r=f(e.rUpzrGCz,e.ugIamxPn,e.hRHDvcBR,e.rDeguJaT,m);z=f(e.rUpzrGCz,e._ZXrplMV,e.ugIamxPn,e.WTtAHPMb,m);else if n==e.hRHDvcBR then y=f(e.rUpzrGCz,e.CaJajXcr,e.IYYPUOMt,e.kQmvtwnp,m);u=ee ne=e.aumSfrGV;else t=-e.HGWGeLUf;o=-e.hRHDvcBR;end end else if e.TOXaBmty<=n then if n~=e.rDeguJaT then repeat if e.rUpzrGCz>n then l=f(e.dgBTOCvy);break;end;n=-e.ugIamxPn;until true;else n=-e.ugIamxPn;end else if e.ugIamxPn~=n then repeat if e.IYYPUOMt<n then j=e.qdPjXqoY('#',...)-e.hRHDvcBR;g={};break;end;k={};b={...};until true;else k={};b={...};end end end n=n+e.hRHDvcBR;end;for n=e.aumSfrGV,j do if(n>=y)then k[n-y]=b[n+e.hRHDvcBR];else l[n]=b[n+e.hRHDvcBR];end;end;local n=j-y+e.hRHDvcBR local n;local f;local function b(...)while true do end end while true do if t<-e.rjoEoJMD then t=t+e.CKSbwqIY end n=r[t];f=n[_];if e.svXyEikL>=f then if e.lzfXlgmt<=f then if f>=e.iOLGG_wU then if f>=e.Wkqjrqth then if e.Wkqjrqth<f then if e.Wkqjrqth<f then repeat if f~=e.svXyEikL then l[n[a]]=s[n[d]];break;end;l[n[a]]=l[n[d]][n[c]];until true;else l[n[a]]=l[n[d]][n[c]];end else l[n[a]]=(n[d]~=e.aumSfrGV);end else if f>=e.eXoQWtMz then repeat if e.VmFfGHpk~=f then do return end;break;end;local t=n[a];local a=l[n[d]];l[t+e.hRHDvcBR]=a;l[t]=a[n[c]];until true;else do return end;end end else if e.bubmlucb>=f then if e.TOXaBmty~=f then for r=e.cbYfxPYL,e.epGvmEjx do if e.bubmlucb>f then if(l[n[a]]==n[c])then t=t+e.hRHDvcBR;else t=n[d];end;break;end;l[n[a]]=p(z[n[d]],nil,s);break;end;else l[n[a]]=p(z[n[d]],nil,s);end else if e.dgBTOCvy<=f then for r=e.kTiZOJIB,e.znaKBZPo do if f<e.ktsXiirt then t=n[d];break;end;if(l[n[a]]==n[c])then t=t+e.hRHDvcBR;else t=n[d];end;break;end;else if(l[n[a]]==n[c])then t=t+e.hRHDvcBR;else t=n[d];end;end end end else if f<=e.IYYPUOMt then if e.ugIamxPn<=f then if f~=e.aumSfrGV then repeat if e.ugIamxPn<f then local n=n[a]l[n](l[n+e.hRHDvcBR])break;end;local f,o,r,h,s,c;local t=e.aumSfrGV;while t>-e.hRHDvcBR do if e.rDeguJaT<=t then if e.TOXaBmty>=t then if e.TOXaBmty==t then c=f[o];else s=h[f[r]];end else if t<e.dgBTOCvy then l[c]=s;else t=-e.ugIamxPn;end end else if t>e.hRHDvcBR then if t~=e.aumSfrGV then for n=e.Wkqjrqth,e.czFkMemQ do if t<e.IYYPUOMt then r=d;break;end;h=l;break;end;else r=d;end else if t>-e.ugIamxPn then repeat if t~=e.aumSfrGV then o=a;break;end;f=n;until true;else o=a;end end end t=t+e.hRHDvcBR end until true;else local n=n[a]l[n](l[n+e.hRHDvcBR])end else if f~=e.hRHDvcBR then local j,p,k,m,z,f,b,ee,g,_,y;for f=e.aumSfrGV,e.rUpzrGCz do if f<=e.ugIamxPn then if f>e.aumSfrGV then if f>=-e.IYYPUOMt then for o=e.OkSOXEzL,e.dgYOBLTb do if e.ugIamxPn~=f then s[n[d]]=l[n[a]];t=t+e.hRHDvcBR;n=r[t];break;end;l[n[a]]=s[n[d]];t=t+e.hRHDvcBR;n=r[t];break;end;else s[n[d]]=l[n[a]];t=t+e.hRHDvcBR;n=r[t];end else f=e.aumSfrGV;while f>-e.hRHDvcBR do if f>=e.IYYPUOMt then if e.TOXaBmty<=f then if e.rUpzrGCz>f then l(z,m);else f=-e.ugIamxPn;end else if e.aumSfrGV<=f then repeat if f<e.rDeguJaT then m=j[k];break;end;z=j[p];until true;else m=j[k];end end else if e.aumSfrGV<f then if f<e.ugIamxPn then p=a;else k=d;end else j=n;end end f=f+e.hRHDvcBR end t=t+e.hRHDvcBR;n=r[t];end else if f>e.rDeguJaT then if f~=e.rDeguJaT then for e=e.uTmfHjeY,e.xoveohHM do if f~=5 then b=n[a]g,_=u(l[b](h(l,b+1,n[d])))o=_+b-1 y=0;for e=b,o do y=y+1;l[e]=g[y];end;break;end;f=0;while f>-1 do if f<3 then if f<1 then j=n;else if 2>f then p=a;else k=d;end end else if f<=4 then if f~=4 then m=j[k];else z=j[p];end else if f>1 then for e=40,88 do if f~=6 then l(z,m);break;end;f=-2;break;end;else f=-2;end end end f=f+1 end t=t+1;n=r[t];break;end;else b=n[a]g,_=u(l[b](h(l,b+1,n[d])))o=_+b-1 y=0;for e=b,o do y=y+1;l[e]=g[y];end;end else if f~=4 then l[n[a]]=s[n[d]];t=t+1;n=r[t];else b=n[a];ee=l[n[d]];l[b+1]=ee;l[b]=ee[n[c]];t=t+1;n=r[t];end end end end else local r,c,o,t,f;local e=0;while e>-1 do if 3>e then if 1<=e then if e==1 then c=a;else o=d;end else r=n;end else if 4<e then if e>4 then for n=15,95 do if 6~=e then l(f,t);break;end;e=-2;break;end;else l(f,t);end else if e>3 then f=r[c];else t=r[o];end end end e=e+1 end end end else if f<=5 then if 4==f then l[n[a]]();else s[n[d]]=l[n[a]];end else if f==6 then l[n[a]]=p(z[n[d]],nil,s);else local e,y,k,j,b;for f=0,6 do if f>=3 then if 4>=f then if f>=-1 then repeat if f>3 then l[n[a]]=(n[d]~=0);t=t+1;n=r[t];break;end;l(n[a],n[d]);t=t+1;n=r[t];until true;else l[n[a]]=(n[d]~=0);t=t+1;n=r[t];end else if 2~=f then for c=32,85 do if 5~=f then e=n[a]l[e]=l[e](h(l,e+1,o))break;end;e=n[a]k,j=u(l[e](h(l,e+1,n[d])))o=j+e-1 b=0;for e=e,o do b=b+1;l[e]=k[b];end;t=t+1;n=r[t];break;end;else e=n[a]k,j=u(l[e](h(l,e+1,n[d])))o=j+e-1 b=0;for e=e,o do b=b+1;l[e]=k[b];end;t=t+1;n=r[t];end end else if f<1 then l[n[a]]=s[n[d]];t=t+1;n=r[t];else if 0~=f then repeat if 1<f then e=n[a];y=l[n[d]];l[e+1]=y;l[e]=y[n[c]];t=t+1;n=r[t];break;end;l[n[a]]=s[n[d]];t=t+1;n=r[t];until true;else e=n[a];y=l[n[d]];l[e+1]=y;l[e]=y[n[c]];t=t+1;n=r[t];end end end end end end end end else if f<25 then if 20<f then if 23<=f then if f~=19 then for e=21,82 do if 24~=f then local e=n[a]l[e](l[e+1])break;end;local e=n[a]l[e]=l[e](h(l,e+1,o))break;end;else local e=n[a]l[e]=l[e](h(l,e+1,o))end else if f==21 then for e=0,3 do if e>=2 then if-2<=e then repeat if 3>e then l[n[a]]=s[n[d]];t=t+1;n=r[t];break;end;if(l[n[a]]==n[c])then t=t+1;else t=n[d];end;until true;else if(l[n[a]]==n[c])then t=t+1;else t=n[d];end;end else if e==1 then s[n[d]]=l[n[a]];t=t+1;n=r[t];else l[n[a]]=(n[d]~=0);t=t+1;n=r[t];end end end else local f;for e=0,6 do if 3>e then if e<1 then l[n[a]]=s[n[d]];t=t+1;n=r[t];else if 0<e then repeat if e~=1 then l[n[a]]=l[n[d]];t=t+1;n=r[t];break;end;l[n[a]]=l[n[d]][n[c]];t=t+1;n=r[t];until true;else l[n[a]]=l[n[d]][n[c]];t=t+1;n=r[t];end end else if 5<=e then if 2<e then for f=16,64 do if 6>e then l[n[a]]=l[n[d]][n[c]];t=t+1;n=r[t];break;end;l[n[a]]=l[n[d]];break;end;else l[n[a]]=l[n[d]];end else if e~=2 then for o=48,57 do if e~=4 then f=n[a]l[f](l[f+1])t=t+1;n=r[t];break;end;l[n[a]]=s[n[d]];t=t+1;n=r[t];break;end;else f=n[a]l[f](l[f+1])t=t+1;n=r[t];end end end end end end else if 19<=f then if f>=15 then for e=49,73 do if 20>f then local t,s,r,f,o,c;local e=0;while e>-1 do if e>3 then if 5<e then if 2<e then for n=18,75 do if e~=6 then e=-2;break;end;l[c]=o;break;end;else e=-2;end else if e~=0 then for n=30,86 do if 4<e then c=t[s];break;end;o=f[t[r]];break;end;else o=f[t[r]];end end else if e>1 then if 0<=e then repeat if 2~=e then f=l;break;end;r=d;until true;else f=l;end else if e>-1 then for l=11,75 do if e~=0 then s=a;break;end;t=n;break;end;else t=n;end end end e=e+1 end break;end;local e=n[a]local t,n=u(l[e](h(l,e+1,n[d])))o=n+e-1 local n=0;for e=e,o do n=n+1;l[e]=t[n];end;break;end;else local e=n[a]local t,n=u(l[e](h(l,e+1,n[d])))o=n+e-1 local n=0;for e=e,o do n=n+1;l[e]=t[n];end;end else if f>=14 then repeat if f~=17 then local e=n[a]local t,n=u(l[e](h(l,e+1,n[d])))o=n+e-1 local n=0;for e=e,o do n=n+1;l[e]=t[n];end;break;end;l[n[a]]();until true;else local e=n[a]local t,n=u(l[e](h(l,e+1,n[d])))o=n+e-1 local n=0;for e=e,o do n=n+1;l[e]=t[n];end;end end end else if f>28 then if 30>=f then if 26~=f then repeat if f~=30 then s[n[d]]=l[n[a]];break;end;t=n[d];until true;else t=n[d];end else if f>31 then if 29<f then repeat if 33~=f then do return end;break;end;l[n[a]]=(n[d]~=0);until true;else do return end;end else l[n[a]]=s[n[d]];end end else if f>=27 then if f>27 then l[n[a]]=l[n[d]][n[c]];else local t=n[a];local e=l[n[d]];l[t+1]=e;l[t]=e[n[c]];end else if f>=23 then for e=13,81 do if 26~=f then local e=n[a]l[e]=l[e](h(l,e+1,o))break;end;local t,f,o,c,r;local e=0;while e>-1 do if e>2 then if 5<=e then if 2~=e then repeat if e~=6 then l(r,c);break;end;e=-2;until true;else e=-2;end else if e>2 then for n=47,95 do if 3~=e then r=t[f];break;end;c=t[o];break;end;else r=t[f];end end else if e<1 then t=n;else if-1~=e then for n=26,86 do if 2~=e then f=a;break;end;o=d;break;end;else o=d;end end end e=e+1 end break;end;else local e=n[a]l[e]=l[e](h(l,e+1,o))end end end end end t=1+t;end;end;return ne end;local d=0xff;local c={};local f=(1);local a='';(function(l)local t=l local r=0x00 local n=0x00 t={(function(e)if r>0x28 then return e end r=r+1 n=(n+0xedf-e)%0x30 return(n%0x03==0x2 and(function(e)if not l[e]then n=n+0x01 l[e]=(0x53);end return true end)'xPoks'and t[0x1](0x314+e))or(n%0x03==0x1 and(function(e)if not l[e]then n=n+0x01 l[e]=(0x3c);c[f]=te();f=f+d;end return true end)'LxLVI'and t[0x3](e+0x166))or(n%0x03==0x0 and(function(e)if not l[e]then n=n+0x01 l[e]=(0x62);end return true end)'DlyLb'and t[0x2](e+0x165))or e end),(function(o)if r>0x2c then return o end r=r+1 n=(n+0xba3-o)%0x1c return(n%0x03==0x2 and(function(e)if not l[e]then n=n+0x01 l[e]=(0x97);end return true end)'wLSiL'and t[0x2](0x281+o))or(n%0x03==0x0 and(function(t)if not l[t]then n=n+0x01 l[t]=(0xd2);a={a..'\58 a',a};c[f]=le();f=f+((not e.EBBQbrEv)and 1 or 0);a[1]='\58'..a[1];d[2]=0xff;end return true end)'DnQiV'and t[0x3](o+0x197))or(n%0x03==0x1 and(function(e)if not l[e]then n=n+0x01 l[e]=(0x8);end return true end)'MStZl'and t[0x1](o+0x70))or o end),(function(e)if r>0x26 then return e end r=r+1 n=(n+0xcaa-e)%0x45 return(n%0x03==0x2 and(function(e)if not l[e]then n=n+0x01 l[e]=(0x17);end return true end)'liiVZ'and t[0x3](0x7f+e))or(n%0x03==0x0 and(function(e)if not l[e]then n=n+0x01 l[e]=(0x9b);a='\37';d={function()d()end};a=a..'\100\43';end return true end)'lpoff'and t[0x2](e+0x316))or(n%0x03==0x1 and(function(e)if not l[e]then n=n+0x01 l[e]=(0x95);d[2]=(d[2]*(ne(function()c()end,h(a))-ne(d[1],h(a))))+1;c[f]={};d=d[2];f=f+d;end return true end)'niHmu'and t[0x1](e+0x35c))or e end)}t[0x3](0x1514)end){};local e=p(h(c));return e(...);end return le((function()local l={}local n=0x01;local t;if e.EBBQbrEv then t=e.EBBQbrEv(le)else t=''end if e.bqsSJ_QS(t,e.RnmCdauJ)then n=n+0;else n=n+1;end l[n]=0x02;l[l[n]+0x01]=0x03;return l;end)(),...)end)((function(e,l,n,t,a,d)local d;if e<4 then if e<2 then if e==0 then do return l(1),l(4,a,t,n,l),l(5,a,t,n)end;else do return function(l,e,n)if n then local e=(l/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(l%(e+e)>=e)and 1 or 0;end;end;end;end else if e>1 then for d=36,78 do if 3>e then do return 16777216,65536,256 end;break;end;do return l(1),l(4,a,t,n,l),l(5,a,t,n)end;break;end;else do return 16777216,65536,256 end;end end else if e>=6 then if e>6 then if 6~=e then for l=41,76 do if e>7 then do return n(e,nil,n);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,t,l,a,n)if n then return e[n]elseif a then return e else e[t]=l end end})end break;end;else do return n(e,nil,n);end end else do return a[n]end;end else if e>=3 then for d=36,56 do if 4<e then local e=t;do return function()local n=l(n,e(e,e),e(e,e));e(1);return n;end;end;break;end;local e=t;local f,r,d=a(2);do return function()local a,t,l,n=l(n,e(e,e),e(e,e)+3);e(4);return(n*f)+(l*r)+(t*d)+a;end;end;break;end;else local e=t;local t,d,a=a(2);do return function()local l,n,r,f=l(n,e(e,e),e(e,e)+3);e(4);return(f*t)+(r*d)+(n*a)+l;end;end;end end end end),...)
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+
+--// Services
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+local tweenService = game:GetService("TweenService")
+local userInput = game:GetService("UserInputService")
+
+--// GUI
+local TradeAssistGUI = Instance.new("ScreenGui")
+TradeAssistGUI.Name = "TradeAssistGUI"
+TradeAssistGUI.ResetOnSpawn = false
+TradeAssistGUI.IgnoreGuiInset = true
+TradeAssistGUI.Parent = playerGui
+
+--// Main Frame (Smaller Size)
+local MainFrame = Instance.new("Frame")
+MainFrame.Name = "MainFrame"
+MainFrame.Size = UDim2.new(0, 240, 0, 320)
+MainFrame.Position = UDim2.new(0.5, -120, 0.5, -160)
+MainFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 25)
+MainFrame.BorderSizePixel = 0
+MainFrame.Active = true
+MainFrame.Parent = TradeAssistGUI
+Instance.new("UICorner", MainFrame).CornerRadius = UDim.new(0, 10)
+
+--// Drag Support
+local dragging = false
+local dragStart, startPos
+local function updateDrag(input)
+	local delta = input.Position - dragStart
+	MainFrame.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+end
+MainFrame.InputBegan:Connect(function(input)
+	if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+		dragging = true
+		dragStart = input.Position
+		startPos = MainFrame.Position
+	end
+end)
+MainFrame.InputChanged:Connect(function(input)
+	if dragging and (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+		updateDrag(input)
+	end
+end)
+userInput.InputEnded:Connect(function(input)
+	if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+		dragging = false
+	end
+end)
+
+--// Top Bar
+local TopBar = Instance.new("Frame")
+TopBar.Size = UDim2.new(1, 0, 0, 30)
+TopBar.BackgroundColor3 = Color3.fromRGB(35, 35, 45)
+TopBar.BorderSizePixel = 0
+TopBar.ZIndex = 2
+TopBar.Parent = MainFrame
+
+--// Title Label
+local TitleLabel = Instance.new("TextLabel")
+TitleLabel.Size = UDim2.new(1, -30, 1, 0)
+TitleLabel.Position = UDim2.new(0, 0, 0, 0)
+TitleLabel.BackgroundTransparency = 1
+TitleLabel.Text = "Trade Freeze"
+TitleLabel.Font = Enum.Font.GothamBold
+TitleLabel.TextSize = 14
+TitleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TitleLabel.TextXAlignment = Enum.TextXAlignment.Center
+TitleLabel.ZIndex = 2
+TitleLabel.Parent = TopBar
+
+--// Close Button
+local CloseButton = Instance.new("TextButton")
+CloseButton.Size = UDim2.new(0, 30, 0, 30)
+CloseButton.Position = UDim2.new(1, -30, 0, 0)
+CloseButton.Text = "X"
+CloseButton.Font = Enum.Font.GothamBold
+CloseButton.TextSize = 16
+CloseButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+CloseButton.BackgroundColor3 = Color3.fromRGB(180, 60, 60)
+CloseButton.BorderSizePixel = 0
+CloseButton.ZIndex = 3
+Instance.new("UICorner", CloseButton).CornerRadius = UDim.new(0, 6)
+CloseButton.Parent = TopBar
+CloseButton.MouseButton1Click:Connect(function()
+	TradeAssistGUI:Destroy()
+end)
+
+--// Content Frame
+local ContentFrame = Instance.new("Frame")
+ContentFrame.Size = UDim2.new(1, 0, 1, -30)
+ContentFrame.Position = UDim2.new(0, 0, 0, 30)
+ContentFrame.BackgroundTransparency = 1
+ContentFrame.Parent = MainFrame
+
+--// Profile Picture
+local PlayerIconFrame = Instance.new("Frame")
+PlayerIconFrame.Size = UDim2.new(0, 80, 0, 80)
+PlayerIconFrame.Position = UDim2.new(0.5, -40, 0, 8)
+PlayerIconFrame.BackgroundColor3 = Color3.fromRGB(45, 45, 50)
+PlayerIconFrame.BorderSizePixel = 0
+PlayerIconFrame.ClipsDescendants = true
+PlayerIconFrame.Parent = ContentFrame
+Instance.new("UICorner", PlayerIconFrame).CornerRadius = UDim.new(1, 0)
+
+local PlayerIcon = Instance.new("ImageLabel")
+PlayerIcon.Size = UDim2.new(0.85, 0, 0.85, 0)
+PlayerIcon.Position = UDim2.new(0.5, 0, 0.5, 0)
+PlayerIcon.AnchorPoint = Vector2.new(0.5, 0.5)
+PlayerIcon.BackgroundTransparency = 1
+PlayerIcon.Image = "rbxassetid://0"
+PlayerIcon.Parent = PlayerIconFrame
+
+-- Load profile image
+local success, thumb = pcall(function()
+	return Players:GetUserThumbnailAsync(player.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size180x180)
+end)
+if success then
+	PlayerIcon.Image = thumb
+end
+
+--// Username Box
+local UsernameBox = Instance.new("TextBox")
+UsernameBox.PlaceholderText = "Enter Username"
+UsernameBox.Font = Enum.Font.GothamBold
+UsernameBox.TextSize = 13
+UsernameBox.Size = UDim2.new(0.85, 0, 0, 30)
+UsernameBox.Position = UDim2.new(0.5, 0, 0, 95)
+UsernameBox.AnchorPoint = Vector2.new(0.5, 0)
+UsernameBox.BackgroundColor3 = Color3.fromRGB(55, 55, 65)
+UsernameBox.TextColor3 = Color3.new(1, 1, 1)
+UsernameBox.ClearTextOnFocus = false
+UsernameBox.Parent = ContentFrame
+Instance.new("UICorner", UsernameBox).CornerRadius = UDim.new(0, 8)
+
+UsernameBox.FocusLost:Connect(function(enterPressed)
+	if enterPressed and UsernameBox.Text ~= "" then
+		local name = UsernameBox.Text
+		local ok, id = pcall(function()
+			return Players:GetUserIdFromNameAsync(name)
+		end)
+		if ok then
+			local content, _ = Players:GetUserThumbnailAsync(id, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size180x180)
+			PlayerIcon.Image = content
+		end
+	end
+end)
+
+--// Button Container
+local ButtonContainer = Instance.new("Frame")
+ButtonContainer.Size = UDim2.new(1, 0, 0, 100)
+ButtonContainer.Position = UDim2.new(0, 0, 0, 135)
+ButtonContainer.BackgroundTransparency = 1
+ButtonContainer.Parent = ContentFrame
+
+local layout = Instance.new("UIListLayout", ButtonContainer)
+layout.SortOrder = Enum.SortOrder.LayoutOrder
+layout.Padding = UDim.new(0, 6)
+layout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+layout.VerticalAlignment = Enum.VerticalAlignment.Top
+
+local function createButton(text, color)
+	local btn = Instance.new("TextButton")
+	btn.Size = UDim2.new(0.85, 0, 0, 30)
+	btn.Text = text
+	btn.Font = Enum.Font.GothamBold
+	btn.TextSize = 13
+	btn.TextColor3 = Color3.new(1, 1, 1)
+	btn.BackgroundColor3 = color
+	Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 8)
+	btn.Parent = ButtonContainer
+	return btn
+end
+
+local FreezeButton = createButton("FREEZE TRADE", Color3.fromRGB(240, 180, 60))
+local ForceButton = createButton("FORCE TRADE PETS", Color3.fromRGB(160, 120, 255))
+local AcceptButton = createButton("AUTO ACCEPT", Color3.fromRGB(70, 200, 120))
+
+-- Notification Logic
+local function notify(txt)
+	game.StarterGui:SetCore("SendNotification", {
+		Title = "Trade Assist",
+		Text = txt,
+		Duration = 2,
+	})
+end
+
+FreezeButton.MouseButton1Click:Connect(function() notify("Trade frozen!") end)
+ForceButton.MouseButton1Click:Connect(function() notify("Force trade triggered!") end)
+AcceptButton.MouseButton1Click:Connect(function() notify("Auto accept triggered!") end)
+
+--// Credit
+local CreditLabel = Instance.new("TextLabel")
+CreditLabel.Text = "Tiktok: @yawiyawiyawiz1"
+CreditLabel.Font = Enum.Font.GothamBold
+CreditLabel.TextSize = 13
+CreditLabel.TextColor3 = Color3.fromRGB(180, 180, 180)
+CreditLabel.BackgroundTransparency = 1
+CreditLabel.Size = UDim2.new(1, 0, 0, 20)
+CreditLabel.Position = UDim2.new(0, 0, 1, -22)
+CreditLabel.TextXAlignment = Enum.TextXAlignment.Center
+CreditLabel.Parent = MainFrame
+
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
+-- SKIDDED BY SIGMA @rizzify101
